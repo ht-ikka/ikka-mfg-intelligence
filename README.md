@@ -45,15 +45,12 @@ Generic AI systems are optimized to be helpful. IKKA is designed to be governed.
 ## Repository Structure
 
 ikka-mfg-intelligence/
-│
-├── README.md
-│
-├── docs/
-│   ├── how-ikka-works.md
-│   └── product-thesis-and-use-cases.md
-│
-└── demo/
-    └── README.md
+- README.md
+- docs/
+    > how-ikka-works.md
+    > product-thesis-and-use-cases.md
+- demo/
+    > README.md
 
 
 ## Core Documents
