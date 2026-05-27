@@ -1,6 +1,7 @@
 # IKKA — Governed AI Infrastructure for Manufacturing Intelligence
 
-AI can generate answers.  
+AI can generate answers
+but
 Manufacturing organizations require decisions that are evidence-backed, traceable, and defensible.
 
 IKKA is a governed decision infrastructure layer for manufacturing and engineering teams. It is designed to help organizations turn fragmented documents, systems, standards, customer requirements, and institutional knowledge into structured, auditable decision support.
