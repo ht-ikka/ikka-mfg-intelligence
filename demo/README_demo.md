@@ -1,39 +1,58 @@
 # IKKA Demo
 
-A public demo recording is currently in progress.
+This folder contains public demo materials for IKKA.
 
-The demo will show IKKA handling manufacturing and quality-related questions through a governed decision pipeline.
+IKKA is a governed AI decision infrastructure initiative for manufacturing and engineering environments. These videos show the current product thesis, early system behavior, and demo workflows.
 
+---
 
-## Planned Demo Flow
+## Demo Videos
 
-The demo is expected to show:
+### 1. Founder Notes
 
-1. A user asking a manufacturing or quality-related question
-2. IKKA evaluating the request through a control layer
-3. The system selecting an execution path
-4. Evidence retrieval from approved sources
-5. Controlled synthesis where appropriate
-6. Refusal or clarification where evidence is insufficient
-7. A structured response with trace information
+A short founder video covering the broader origin story and vision behind IKKA.
 
+[Watch Founder Notes](https://drive.google.com/file/d/1nN3HChjqATKgE-yzWrfFmknbiQqyQd0a/view?usp=sharing)
 
-## What the Demo Is Intended to Prove
+---
 
-The demo is not intended to show a generic AI chatbot.
+### 2. IKKA Intro — Terminal-Based Overview
 
-It is intended to show that IKKA can:
+A terminal-based walkthrough introducing the IKKA architecture, governed execution concept, and how the system is intended to process manufacturing and engineering questions.
 
-- evaluate how a question should be answered
-- separate deterministic context from evidence retrieval
-- use synthesis only when appropriate
-- avoid unsupported answers
-- produce a traceable decision artifact
-- support manufacturing and engineering workflows
+[Watch IKKA Intro](https://drive.google.com/file/d/1kJHAAXhUQ_-OIpbjMvGXcsqDX6UQtupU/view?usp=sharing)
 
+---
 
-## Demo Link
+### 3. IKKA Use Case — Evidence Pack / Custom GPT Demo
 
-Demo recording: Coming soon.
+A use-case demo showing IKKA operating through a Custom GPT interface using a local evidence pack. The demo highlights governed responses, evidence-backed reasoning, refusal behavior, and traceable outputs for manufacturing and quality-related workflows.
 
-Once available, the demo link will be added here and referenced from the main README.
+[Watch IKKA Use Case Demo](https://drive.google.com/file/d/1eiHmfYaDOdTIPmhKdm_3I2LbRFFmtLwL/view?usp=sharing)
+
+---
+
+## What These Demos Are Intended to Show
+
+The demos are not intended to present IKKA as a generic AI chatbot.
+
+They are intended to show that IKKA is being designed to:
+
+* evaluate how a question should be answered
+* separate deterministic context from evidence retrieval
+* use AI synthesis only when appropriate
+* avoid unsupported answers
+* produce traceable decision artifacts
+* support manufacturing and engineering workflows where evidence, confidence, and accountability matter
+
+---
+
+## Current Demo Status
+
+The current public demo set includes:
+
+* Founder vision / application video
+* Terminal-based system overview
+* Evidence Pack / Custom GPT use-case demo
+
+A separate Demo 2B, using Onyx-backed retrieval, may be recorded separately or merged into a future combined demo.
